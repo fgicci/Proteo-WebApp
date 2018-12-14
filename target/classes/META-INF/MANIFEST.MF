@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Proteo-WebApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: fer.gicci
+Implementation-Vendor-Id: edu.uel.proteo
+Build-Jdk: 1.8.0_72
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/webapp
+Created-By: Maven Integration for Eclipse
+
